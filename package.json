@@ -1,7 +1,7 @@
 {
   "name": "alumani",
   "version": "1.0.0",
-  "description": "app for almuni form submit",
+  "description": "app for registration",
   "main": "app.js",
   "scripts": {
     "start": "set NODE_ENV=production&& node app.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/deevanshu-k/alumina.git"
+    "url": "git+ssh://git@github.com/deevanshu-k/college_registration_webapp.git"
   },
   "author": "Deevanshu Kushwah",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/deevanshu-k/alumina/issues"
+    "url": "https://github.com/deevanshu-k/college_registration_webapp/issues"
   },
-  "homepage": "https://github.com/deevanshu-k/alumina#readme",
+  "homepage": "https://github.com/deevanshu-k/college_registration_webapp#readme",
   "dependencies": {
     "body-parser": "^1.20.0",
     "country-state-city": "^3.1.2",
